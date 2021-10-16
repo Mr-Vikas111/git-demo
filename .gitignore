@@ -1,0 +1,9 @@
+*.log
+clone/
+static/dir
+db.accdb
+*.xlsx
+mydemoweb/
+pass.txt
+hgfh
+ghjh
